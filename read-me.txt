@@ -1,0 +1,11 @@
+firebase serve --only functions
+
+$ firebase deploy --only functions
+
+
+node load_college_data.js
+
+ng build --prod
+
+firebase deploy
+
